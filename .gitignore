@@ -1,3 +1,5 @@
-IMAGES/*
 *.jar
 ImageUtilities/bin/*
+*.class
+.classpath
+.project
